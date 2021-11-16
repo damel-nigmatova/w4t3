@@ -1,0 +1,64 @@
+/*  FOOTER SECTION   */
+.footer{
+    background-color: black;
+    display: block;
+    margin-bottom: 0px;
+    overflow-y: hidden;
+    padding-left: 10%;
+}
+.footer img{
+    width: 150px;
+    padding-bottom: 20px;
+}
+
+.footer .container5 a{
+    background-color: #749937;
+	color: white;
+	padding: 10px 30px;
+	font-size: 15px;
+	border-radius: 5px;
+}
+.footer .container5 form input, .footer .container5 form button{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.footer p{
+    font-family: 'Quattrocento';
+    line-height: 30px;
+    color: white;
+}
+.footer h10{
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 10px 0px;
+}
+
+.footer .footer-part{
+    margin: 50px 0;
+}
+.media-icons2 i{
+    color: #749937;
+    font-size: 30px;
+}
+.media-icons2{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    padding-top: 0px;
+}
+.media-icons2 i:hover{
+    color: white;
+}
+#closing{
+    width: 100%;
+    text-align: center;
+    overflow-y: hidden;
+}
+#closing h10{
+    text-transform: none;
+    font-size: 15px;
+    overflow-y: hidden;
+}
